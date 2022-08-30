@@ -1,0 +1,23 @@
+C:\Users\HAL\AppData\Local\Temporary Projects\DataGridView_Primjer_CRUD_Datoteka\bin\Debug\DataGridView_Primjer_CRUD_Datoteka.exe
+C:\Users\HAL\AppData\Local\Temporary Projects\DataGridView_Primjer_CRUD_Datoteka\bin\Debug\DataGridView_Primjer_CRUD_Datoteka.pdb
+C:\Users\HAL\AppData\Local\Temporary Projects\DataGridView_Primjer_CRUD_Datoteka\obj\x86\Debug\DataGridView_Primjer_CRUD_Datoteka.Form1.resources
+C:\Users\HAL\AppData\Local\Temporary Projects\DataGridView_Primjer_CRUD_Datoteka\obj\x86\Debug\DataGridView_Primjer_CRUD_Datoteka.Properties.Resources.resources
+C:\Users\HAL\AppData\Local\Temporary Projects\DataGridView_Primjer_CRUD_Datoteka\obj\x86\Debug\DataGridView_Primjer_CRUD_Datoteka.csproj.GenerateResource.Cache
+C:\Users\HAL\AppData\Local\Temporary Projects\DataGridView_Primjer_CRUD_Datoteka\obj\x86\Debug\DataGridView_Primjer_CRUD_Datoteka.exe
+C:\Users\HAL\AppData\Local\Temporary Projects\DataGridView_Primjer_CRUD_Datoteka\obj\x86\Debug\DataGridView_Primjer_CRUD_Datoteka.pdb
+C:\Users\HAL\Desktop\DataGridView_Primjer_CRUD_Datoteka\DataGridView_Primjer_CRUD_Datoteka\obj\x86\Debug\DataGridView_Primjer_CRUD_Datoteka.exe
+C:\Users\HAL\Desktop\DataGridView_Primjer_CRUD_Datoteka\DataGridView_Primjer_CRUD_Datoteka\obj\x86\Debug\DataGridView_Primjer_CRUD_Datoteka.pdb
+C:\Users\HAL\Desktop\DataGridView_Primjer_CRUD_Datoteka\DataGridView_Primjer_CRUD_Datoteka\obj\x86\Debug\DataGridView_Primjer_CRUD_Datoteka.Form1.resources
+C:\Users\HAL\Desktop\DataGridView_Primjer_CRUD_Datoteka\DataGridView_Primjer_CRUD_Datoteka\obj\x86\Debug\DataGridView_Primjer_CRUD_Datoteka.Form2.resources
+C:\Users\HAL\Desktop\DataGridView_Primjer_CRUD_Datoteka\DataGridView_Primjer_CRUD_Datoteka\obj\x86\Debug\DataGridView_Primjer_CRUD_Datoteka.Properties.Resources.resources
+C:\Users\HAL\Desktop\DataGridView_Primjer_CRUD_Datoteka\DataGridView_Primjer_CRUD_Datoteka\obj\x86\Debug\DataGridView_Primjer_CRUD_Datoteka.csproj.GenerateResource.Cache
+C:\Users\HAL\Desktop\DataGridView_Primjer_CRUD_Datoteka\DataGridView_Primjer_CRUD_Datoteka\bin\Debug\DataGridView_Primjer_CRUD_Datoteka.exe
+C:\Users\HAL\Desktop\DataGridView_Primjer_CRUD_Datoteka\DataGridView_Primjer_CRUD_Datoteka\bin\Debug\DataGridView_Primjer_CRUD_Datoteka.pdb
+D:\__POSAO__\OneDrive - CARNET\SKOLA_NASTAVA\SKOLA-19-20\C# PROJEKTI\DataGridView_Primjer_CRUD_Datoteka\DataGridView_Primjer_CRUD_Datoteka\obj\x86\Debug\DataGridView_Primjer_CRUD_Datoteka.exe
+D:\__POSAO__\OneDrive - CARNET\SKOLA_NASTAVA\SKOLA-19-20\C# PROJEKTI\DataGridView_Primjer_CRUD_Datoteka\DataGridView_Primjer_CRUD_Datoteka\obj\x86\Debug\DataGridView_Primjer_CRUD_Datoteka.pdb
+D:\__POSAO__\OneDrive - CARNET\SKOLA_NASTAVA\SKOLA-19-20\C# PROJEKTI\DataGridView_Primjer_CRUD_Datoteka\DataGridView_Primjer_CRUD_Datoteka\bin\Debug\DataGridView_Primjer_CRUD_Datoteka.exe
+D:\__POSAO__\OneDrive - CARNET\SKOLA_NASTAVA\SKOLA-19-20\C# PROJEKTI\DataGridView_Primjer_CRUD_Datoteka\DataGridView_Primjer_CRUD_Datoteka\bin\Debug\DataGridView_Primjer_CRUD_Datoteka.pdb
+D:\__POSAO__\OneDrive - CARNET\SKOLA_NASTAVA\SKOLA-19-20\C# PROJEKTI\DataGridView_Primjer_CRUD_Datoteka\DataGridView_Primjer_CRUD_Datoteka\obj\x86\Debug\DataGridView_Primjer_CRUD_Datoteka.Form1.resources
+D:\__POSAO__\OneDrive - CARNET\SKOLA_NASTAVA\SKOLA-19-20\C# PROJEKTI\DataGridView_Primjer_CRUD_Datoteka\DataGridView_Primjer_CRUD_Datoteka\obj\x86\Debug\DataGridView_Primjer_CRUD_Datoteka.Form2.resources
+D:\__POSAO__\OneDrive - CARNET\SKOLA_NASTAVA\SKOLA-19-20\C# PROJEKTI\DataGridView_Primjer_CRUD_Datoteka\DataGridView_Primjer_CRUD_Datoteka\obj\x86\Debug\DataGridView_Primjer_CRUD_Datoteka.Properties.Resources.resources
+D:\__POSAO__\OneDrive - CARNET\SKOLA_NASTAVA\SKOLA-19-20\C# PROJEKTI\DataGridView_Primjer_CRUD_Datoteka\DataGridView_Primjer_CRUD_Datoteka\obj\x86\Debug\DataGridView_Primjer_CRUD_Datoteka.csproj.GenerateResource.Cache
